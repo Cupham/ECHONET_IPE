@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='jaist.tanlab.echonetIPE' version='1.0.0.20181031-1515'>
+    <properties size='5'>
+      <property name='artifact.size' value='374295'/>
+      <property name='download.size' value='374295'/>
+      <property name='maven-groupId' value='jaist.tanlab'/>
+      <property name='maven-artifactId' value='jaist.tanlab.echonetIPE'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>

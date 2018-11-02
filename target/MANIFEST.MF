@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: jaist.tanlab.echonetIPE
+Bundle-SymbolicName: jaist.tanlab.echonetIPE
+Bundle-Name: EchonetIPE
+Bundle-Version: 1.0.0.20181031-1515
+Bundle-ClassPath: libs/echowand-1.1.jar,.
+Require-Bundle: org.eclipse.om2m.commons
+Bundle-ManifestVersion: 2
+Bundle-Activator: jaist.tanlab.echonetipe.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Import-Package: org.apache.commons.logging,org.eclipse.om2m.core.servi
+ ce,org.eclipse.om2m.interworking.service,org.osgi.framework,org.osgi.
+ util.tracker
+
