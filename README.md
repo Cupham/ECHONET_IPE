@@ -1,1 +1,2 @@
-ECHONET IPE for oneM2M
+This is an implementation of oneM2M IPE for ECHONET Lite protocol.
+
